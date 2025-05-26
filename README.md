@@ -1,5 +1,7 @@
-## Hi there 👋 I'm Fabian
-Engineer 🧠 • Developer 👨‍💻 • Educator 📚 • Traveller 🌍
+
+![para redme de fbi-07](https://github.com/user-attachments/assets/7daa04f9-c304-48a3-b438-7b34eb18d39a)
+
+<p  align="center"> Engineer 🧠 • Developer 👨‍💻 • Educator 📚 • Traveller 🌍 </p>
 
 As a Senior Software Developer with a background in Industrial Engineering, I seamlessly blend my engineering expertise with my programming skills to create innovative solutions. My prior experience in the industrial sector continues to inform and enhance my work, allowing me to bridge the gap between software development and industrial processes effectively.
 
@@ -26,11 +28,12 @@ As a Senior Software Developer with a background in Industrial Engineering, I se
 
 🧠  **Now, a Developer's Joke..**
 
-My wife looked over my shoulder and said:
+My wife sent me this and said:
 
 >“Wait... is that you?”
 
-![screenshot_2021-12-29_at_22 37 18-1-1024x320](https://github.com/user-attachments/assets/bbaa8d96-b21d-43b9-bc32-343750734991)
+![dilbertjoke](https://github.com/user-attachments/assets/d5e02819-b5f4-4b6d-978a-bacde8ef3c6c)
+
 
 Because sometimes the only way to survive deadlines, documentation, and Docker issues is to laugh through the stack trace
 
@@ -46,4 +49,4 @@ Because sometimes the only way to survive deadlines, documentation, and Docker i
 
 <p align="left"> <a href="https://www.linkedin.com/in/fabian-liuni/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:fabianliuni@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>  </p>
 
----
+![para redme de fbi-08](https://github.com/user-attachments/assets/ab7c5eb4-43dc-44e6-a87b-bcb6c967e450)

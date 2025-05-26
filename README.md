@@ -3,6 +3,7 @@
 
 <p  align="center"> Engineer 🧠 • Developer 👨‍💻 • Educator 📚 • Traveller 🌍 </p>
 
+<p align="center"> <a href="https://www.linkedin.com/in/fabian-liuni/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:fabianliuni@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>  </p>
 As a Senior Software Developer with a background in Industrial Engineering, I seamlessly blend my engineering expertise with my programming skills to create innovative solutions. My prior experience in the industrial sector continues to inform and enhance my work, allowing me to bridge the gap between software development and industrial processes effectively.
 
 
@@ -19,15 +20,15 @@ As a Senior Software Developer with a background in Industrial Engineering, I se
 ![Mongodb](https://img.shields.io/badge/Mongodb%20-%20%2300000?style=flat-square&logo=mongodb&logoColor=white&color=%2347A248)
 
 
----
 
-🎯 **Fun Facts**
+🎯 **About Me**
 
 - 🧩 I love solving complex problems and puzzles
 - 🎨 Always eager to learn new technologies and tools
-- 🗣️ I speak 3 lannguges! ( Spanish - English - Italian )
+- 🗣️ I speak 3 languages ( Spanish - English - Italian )
 - 🌍 In my free time, I enjoy travelling!
 - 🐕 I have a funny dog
+
 
 ---
 
@@ -42,16 +43,10 @@ My wife sent me this and said:
 
 Because sometimes the only way to survive deadlines, documentation, and Docker issues is to laugh through the stack trace
 
+
+![para redme de fbi-08](https://github.com/user-attachments/assets/ab7c5eb4-43dc-44e6-a87b-bcb6c967e450)
+
 ---
 
 📊 **Finally, some GitHub Stats That No One Asked For**
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=fabian-gl&show_icons=true&theme=radical" height="150" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=fabian-gl&theme=radical" height="150" /> </p>
----
-
-
-
-📫 **Connect with Me**
-
-<p align="left"> <a href="https://www.linkedin.com/in/fabian-liuni/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:fabianliuni@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>  </p>
-
-![para redme de fbi-08](https://github.com/user-attachments/assets/ab7c5eb4-43dc-44e6-a87b-bcb6c967e450)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fabian-gl&show_icons=true&theme=radical" height="180" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=fabian-gl&theme=radical" height="180" /> </p>

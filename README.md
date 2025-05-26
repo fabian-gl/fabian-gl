@@ -47,7 +47,3 @@ Because sometimes the only way to survive deadlines, documentation, and Docker i
 
 ![para redme de fbi-08](https://github.com/user-attachments/assets/ab7c5eb4-43dc-44e6-a87b-bcb6c967e450)
 
----
-
-📊 **Finally, some GitHub Stats That No One Asked For**
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fabian-gl&show_icons=true&theme=radical" height="150" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=fabian-gl&theme=radical" height="150" /> </p>

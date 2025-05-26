@@ -3,10 +3,11 @@
 
 <p  align="center"> Engineer 🧠 • Developer 👨‍💻 • Educator 📚 • Traveller 🌍 </p>
 
-<p align="center"> <a href="https://www.linkedin.com/in/fabian-liuni/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:fabianliuni@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>  </p>
+<p align="center"> <a href="https://www.linkedin.com/in/fabian-liuni/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:fabianliuni@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a></p>
+
 As a Senior Software Developer with a background in Industrial Engineering, I seamlessly blend my engineering expertise with my programming skills to create innovative solutions. My prior experience in the industrial sector continues to inform and enhance my work, allowing me to bridge the gap between software development and industrial processes effectively.
 
-
+---
 🛠️ **Technologies & Tools**
 
 ![Javascrip](https://img.shields.io/badge/Javascript%20-%20%233776AB?style=flat-square&logo=javascript&logoColor=black&color=%23F7DF1E)

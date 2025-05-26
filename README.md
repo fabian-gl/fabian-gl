@@ -8,11 +8,16 @@ As a Senior Software Developer with a background in Industrial Engineering, I se
 
 🛠️ **Technologies & Tools**
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white)
+![Javascrip](https://img.shields.io/badge/Javascript%20-%20%233776AB?style=flat-square&logo=javascript&logoColor=black&color=%23F7DF1E)
+![typescript](https://img.shields.io/badge/Typescript%20-%20%2300000?style=flat-square&logo=typescript&logoColor=white&color=%233178C6)
+![Express](https://img.shields.io/badge/Express%20-%20%2300000?style=flat-square&logo=express&logoColor=white&color=%23000000)
+![Nodejs](https://img.shields.io/badge/NodeJs%20-%20%2300000?style=flat-square&logo=nodedotjs&logoColor=white&color=%235FA04E)
+![Nestjs](https://img.shields.io/badge/NestJS%20-%20%2300000?style=flat-square&logo=nestjs&logoColor=white&color=%23E0234E)
+![Python](https://img.shields.io/badge/Python%20-%20%2300000?style=flat-square&logo=python&logoColor=white&color=%233776AB)
+![Fastapi](https://img.shields.io/badge/Fastapi%20-%20%2300000?style=flat-square&logo=fastapi&logoColor=white&color=%23009688)
+![Postgres](https://img.shields.io/badge/PostgreSQL%20-%20%2300000?style=flat-square&logo=postgresql&logoColor=white&color=%234169E1)
+![Mongodb](https://img.shields.io/badge/Mongodb%20-%20%2300000?style=flat-square&logo=mongodb&logoColor=white&color=%2347A248)
+
 
 ---
 

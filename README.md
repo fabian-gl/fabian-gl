@@ -33,6 +33,19 @@ As a Senior Software Developer with a background in Industrial Engineering, I se
 
 ---
 
+
+**Some Personal Projects :)**
+
+
+|   |   |
+|-------------|--------------|
+| <img width="873" alt="Sudokupreview" src="https://github.com/user-attachments/assets/077d1aad-8f45-45c7-9b1e-d2552f599d28" /> | <img width="873" alt="Bluewesome-Portfolio" src="https://github.com/user-attachments/assets/c221eb68-132a-493e-9b4f-2bf8145da0eb" /> |
+| [![Sudoku](https://github-readme-stats.vercel.app/api/pin/?username=fabian-gl&repo=sudoku&theme=tokyonight&show_owner=true)](https://github.com/fabian-gl/sudoku) | [![Bluewesome](https://github-readme-stats.vercel.app/api/pin/?username=fabian-gl&repo=bluewesome&theme=tokyonight&show_owner=true)](https://github.com/fabian-gl/bluewesome) |
+| <img width="873" alt="Mockups" src="https://github.com/user-attachments/assets/499f29fc-ae45-4b43-b938-b156d9fd804f" /> | <img width="873" alt="Chatbot" src="https://github.com/user-attachments/assets/ceac0f93-7c94-4a23-876a-1f2f6ca38bfd" /> |
+| [![Mockups](https://github-readme-stats.vercel.app/api/pin/?username=fabian-gl&repo=data-mockup&theme=tokyonight&show_owner=true)](https://github.com/fabian-gl/mockup) | [![Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=fabian-gl&repo=chatbot&theme=tokyonight&show_owner=true)](https://github.com/fabian-gl/chatbot) |
+
+---
+
 🧠  **Now, a Developer's Joke..**
 
 My wife sent me this and said:
@@ -43,6 +56,8 @@ My wife sent me this and said:
 
 
 Because sometimes the only way to survive deadlines, documentation, and Docker issues is to laugh through the stack trace
+
+---
 
 
 ![para redme de fbi-08](https://github.com/user-attachments/assets/ab7c5eb4-43dc-44e6-a87b-bcb6c967e450)
